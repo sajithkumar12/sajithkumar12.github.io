@@ -5,14 +5,11 @@ Timepassbro is a youtubechannel ,which contains many lol contents , it is an tro
 
 ```timepassbro
 Syntax highlighted code block
+ **TIME PASS BRO**
 
-### **TIME PASS BRO**
+_share the channel_
+**subscribe** to timepassbro
 
-- _share the channel_
-- **subscribe** to timepassbro
-
-**Bold** and _Italic_ and `Code` text
-```
 
 For more details see [Timepassbro](https://www.youtube.com/channel/UCdqZaYfM_wuRRyhtAG_g5TA/featured).
 
